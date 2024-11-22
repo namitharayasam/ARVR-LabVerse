@@ -20,7 +20,7 @@
 - **Gamepad Wrapper**: Simplifies controller input handling.
 - **Three.js Add-ons**: Includes VRButton, OrbitControls, RoomEnvironment, and XRControllerModelFactory for extended functionality.
 
----
+Find the vercel deployment here: https://lab-verse.vercel.app/
 
 ## 🚀 **Getting Started**
 ### Prerequisites
