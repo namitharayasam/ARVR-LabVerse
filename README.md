@@ -1,6 +1,6 @@
 # LabVerse - Cave Labs at PES University RR Campus
 
-**LabVerse** is an immersive virtual reality experience that brings the Cave Labs of PES University RR Campus to life. Using cutting-edge technologies like WebXR and Three.js, LabVerse provides a detailed exploration of the environment.
+**LabVerse** is an immersive virtual reality experience that brings the Cave Labs (Centre for Augmented and Virtual Environemnts) of PES University, RR Campus to life. Using cutting-edge technologies like WebXR and Three.js, LabVerse provides a detailed exploration of the environment.
 
 ---
 
